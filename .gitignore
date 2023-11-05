@@ -1,2 +1,5 @@
-node_nodules
+package-lock.json
+node_modules
 .env
+
+
